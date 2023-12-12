@@ -1,0 +1,45 @@
+body {
+    background-image: url('web1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;  
+    color: #666; 
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: maroon; 
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 2px;
+}
+Month{
+    text-align: center;
+    background: dark red;
+    font-size: 5px;
+    letter-spacing: 2px;
+    color: black;
+    border:2px dark red;
+}
+
+table, th, td{
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+    font-size: 25px;
+    border-collapse: collapse;
+    border:5px solid white;
+    font-family: Arial;
+}
+
+
